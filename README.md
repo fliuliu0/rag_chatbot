@@ -10,23 +10,37 @@ This repository contains the code for a Retrieval-Augmented Generation (RAG) cha
 Run the following command to clone the repository:
 ```bash
 git clone https://github.com/fliuliu0/gem_chatbot.git
+```
 
 ### **2. Create and Activate a Virtual Environment**
 # Create a virtual environment
+```bash
 python -m venv myenv
+```
 
-# Activate the virtual environment
+### **3 Activate the virtual environment
+```bash
 # On macOS/Linux:
 source myenv/bin/activate
 # On Windows:
 myenv\Scripts\activate
+```
 
-### **3. Install Dependencies**
+### **4. Install Dependencies**
+```bash
 pip install -r requirements.txt
+```
 
-Run the app: python app.py
-Run the frontend:
+### Run the app: 
+```bash
+python app.py
+```
+### Run the frontend:
+```bash
 cd chatbot-frontend
 npm start
+```
+
+
 
 
