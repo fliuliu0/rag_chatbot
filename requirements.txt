@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+transformers
+flask
+requests
+beautifulsoup4
+matplotlib
+seaborn
+jupyter
+langchain
+sentence-transformers
+google-api-python-client
+bs4
+html5lib
