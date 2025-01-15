@@ -12,8 +12,7 @@ Run the following command to clone the repository:
 git clone https://github.com/fliuliu0/gem_chatbot.git
 ```
 
-### **2. Create and Activate a Virtual Environment**
-# Create a virtual environment
+### **2. Create a Virtual Environment**
 ```bash
 python -m venv myenv
 ```
