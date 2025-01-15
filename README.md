@@ -17,7 +17,7 @@ git clone https://github.com/fliuliu0/gem_chatbot.git
 python -m venv myenv
 ```
 
-### **3 Activate the virtual environment
+### **3 Activate the virtual environment**
 ```bash
 # On macOS/Linux:
 source myenv/bin/activate
